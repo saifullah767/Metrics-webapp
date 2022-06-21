@@ -1,15 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Metrics webapp
 
-> Description the project.
+>  This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT
+- REDUX
+- API
 
 ## Live Demo (if available)
 
@@ -24,33 +27,30 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone Repository using
 
-### Setup
+git clone https://github.com/saifullah767/Metrics-webapp.git
 
-### Install
+move into project directory
 
-### Usage
+cd Metrics-webapp
 
-### Run tests
+Install Project dependancies using NPM
 
-### Deployment
+npm install
 
+launch project locally with
+
+npm start
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/saifullah767)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saifkj/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,7 +67,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
