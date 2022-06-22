@@ -8,7 +8,7 @@ const Navbar = () => {
   const links = [
     {
       id: 1,
-      path: '/financial-metrics',
+      path: '/metrics-webapp',
       text: 'Home Page',
     },
     {

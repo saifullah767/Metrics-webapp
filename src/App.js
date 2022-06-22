@@ -14,7 +14,7 @@ function App() {
         <NavBar />
         <Routes>
           <Route
-            path="/financial-metrics"
+            path="/metrics-webapp"
             exact="true"
             element={<Homepage />}
           />
