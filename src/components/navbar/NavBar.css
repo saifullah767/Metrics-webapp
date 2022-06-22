@@ -24,11 +24,12 @@
 
 .nav-bar {
   align-self: center;
-  padding: 10px 4%;
-  background-color: #8fa6b1;
+  padding: 24px 4%;
+  background-color: white;
   border-bottom: solid 1px #e8e8e8;
   display: flex;
   align-items: center;
+  gap: 40px;
 }
 
 .nav-brand {

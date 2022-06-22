@@ -16,19 +16,19 @@
 }
 
 .companyName:nth-child(4n + 1) {
-  background-color: #34aba3;
+  background-color: #94c5a1;
 }
 
 .companyName:nth-child(4n + 2) {
-  background-color: #6c94c2;
+  background-color: #43b06b;
 }
 
 .companyName:nth-child(4n + 3) {
-  background-color: #2bc5a4;
+  background-color: #43b06b;
 }
 
 .companyName:nth-child(4n + 4) {
-  background-color: #b787ce;
+  background-color: #94c5a1;
 }
 
 .company-detail-container {

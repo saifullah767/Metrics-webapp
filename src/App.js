@@ -1,6 +1,5 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import NotFound from './pages/NotFound';
 import Homepage from './pages/Homepage';
 import MyProfile from './pages/MyProfile';
 import NavBar from './components/navbar/NavBar';
@@ -13,15 +12,10 @@ function App() {
       <div className="screen-area">
         <NavBar />
         <Routes>
-          <Route
-            path="/metrics-webapp"
-            exact="true"
-            element={<Homepage />}
-          />
           <Route path="/company/:id" element={<Company />} />
           <Route path="/quotes/:id" element={<CompanyQuotes />} />
           <Route path="/myprofile" element={<MyProfile />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Homepage />} />
         </Routes>
       </div>
     </>
