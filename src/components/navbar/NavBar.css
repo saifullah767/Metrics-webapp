@@ -34,7 +34,7 @@
 
 .nav-brand {
   align-self: center;
-  font-family: "Montserrat", sans-serif;
+  font-family: "lato", sans-serif;
   font-size: 1.875rem;
   font-weight: bold;
   color: #0252ff;
@@ -51,7 +51,7 @@
 }
 
 .nav-link {
-  font-family: "Montserrat", sans-serif;
+  font-family: "lato", sans-serif;
   font-size: 0.813rem;
   color: #121212;
   letter-spacing: 1.9px;
