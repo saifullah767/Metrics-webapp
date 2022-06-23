@@ -1,0 +1,3 @@
+export const EXCHANGE = 'METRICS-WEBAPP/exchange/EXCHANGE';
+export const COMPANY = 'METRICS-WEBAPP/company/COMPANY';
+export const COMPANY_QUOTES = 'METRICS-WEBAPP/company/COMPANY_QUOTES';

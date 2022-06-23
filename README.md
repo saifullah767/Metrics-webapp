@@ -14,9 +14,13 @@
 - REDUX
 - API
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://reliable-starlight-6295eb.netlify.app)
+
+## Video Presentation
+
+[Video Link](https://youtu.be/f1EjD2zomDo)
 
 
 ## Getting Started
@@ -97,6 +101,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse team for guidance
+- Based on [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance design.
